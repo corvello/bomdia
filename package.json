@@ -1,0 +1,13 @@
+{
+  "name": "eigarcom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./eigarcom.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corvello/bomdia"
+  },
+  "dependencies": {
+    "system-runtime": "^3.1.0"
+  }
+}
